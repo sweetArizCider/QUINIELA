@@ -1,0 +1,19 @@
+#titulo{
+	color: blueviolet;
+}
+
+p.texto{
+	color:darkred;
+}
+
+p.especial{
+	color: mediumslateblue;
+}
+
+div p{
+	color: aquamarine;
+}
+
+div h2, div h3{
+	color: brown;
+}
